@@ -1,0 +1,14 @@
+h1 {
+    margin-left: 35%;
+    font-size: 50px;
+}
+h2 {
+    margin-left: 20%;
+    font-size: 50px;
+}
+ul {
+    font-size:40px;
+}
+body {
+    background: -webkit-linear-gradient(left, #FF0000, #00FF00);
+}
